@@ -2,13 +2,13 @@ package gologger
 
 import (
 	"errors"
-	"gologger/utils"
 	"os"
 	"path"
 	"reflect"
 	"strings"
 	"sync"
 	"time"
+	"wsproxy/src/gologger/utils"
 )
 
 const FILE_ADAPTER_NAME = "file"

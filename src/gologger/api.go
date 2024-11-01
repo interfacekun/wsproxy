@@ -3,9 +3,9 @@ package gologger
 import (
 	"errors"
 	"fmt"
-	"gologger/utils"
 	"reflect"
 	"strconv"
+	"wsproxy/src/gologger/utils"
 )
 
 const API_ADAPTER_NAME = "api"

@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 var awsTestCases = []struct {

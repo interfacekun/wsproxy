@@ -5,7 +5,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 const (

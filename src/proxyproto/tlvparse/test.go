@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"testing"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 func checkTLVs(t *testing.T, name string, raw []byte, expected []proxyproto.PP2Type) []proxyproto.TLV {

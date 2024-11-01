@@ -3,7 +3,7 @@ package tlvparse
 import (
 	"testing"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 func TestExtractPSCConnectionID(t *testing.T) {

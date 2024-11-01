@@ -6,7 +6,7 @@ package tlvparse
 import (
 	"encoding/binary"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 const (

@@ -5,7 +5,7 @@ package tlvparse
 
 import (
 	"regexp"
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 const (

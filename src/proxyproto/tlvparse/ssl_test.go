@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"proxyproto"
+	"wsproxy/src/proxyproto"
 )
 
 var testCases = []struct {
